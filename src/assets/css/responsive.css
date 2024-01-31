@@ -1,0 +1,1890 @@
+@media (max-width: 1920px) {}
+
+@media (max-width: 1680px) {
+  .container {
+    max-width: 1450px;
+  }
+
+  html {
+    font-size: 53%;
+  }
+
+  /* ayon paul start / 28.12.2023 */
+
+  .navbar-nav li a {
+    font-size: 17px;
+  }
+
+  .tp-srch-bar {
+    font-size: 17px;
+  }
+
+  .cmn_hdr p {
+    font-size: 17px;
+  }
+
+  .or-srvc-lnk a {
+    font-size: 17px;
+  }
+
+  .bnr_content p {
+    width: 47%;
+  }
+
+  .or-srvc-top p {
+    width: 70%;
+  }
+
+  .hm-cntng-prt {
+    padding-right: 8rem;
+  }
+
+  .sltn-wrk-part {
+    width: 98%;
+  }
+
+  .sltn-wrk-img {
+    width: 100%;
+  }
+
+  .hw-prt-txt {
+    width: 82%;
+  }
+
+  .sltn-wrk-top p {
+    width: 43%;
+  }
+
+  /* shreyasi */
+  .swiper-button-next_1 {
+    left: 115px;
+  }
+
+  .swiper-button-prev_1 {
+    right: 115px;
+  }
+
+  .explre_right .explr_lft_text.cmn_hdr p {
+    min-height: 85px;
+  }
+
+  .explre_left .explr_lft_dtl:last-child {
+    margin-bottom: 0;
+  }
+
+  .explre_right .explr_lft_dtl {
+    margin-bottom: 0;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 563px;
+    left: 280px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 620px;
+    right: 284px;
+  }
+
+  .bnr_girl {
+    top: 54%;
+    right: 112px;
+    width: 700px;
+  }
+
+  .bnr_crcl {
+    width: 70rem;
+    height: 70rem;
+    top: 106px;
+    right: 133px;
+  }
+
+  /* moumi 5.1.23 */
+  .ftns_actvty-cnt.cmn_pdding {
+    padding-bottom: 10rem;
+  }
+
+  .education_section .hw-prt-ottr .row:nth-child(even) {
+    margin-bottom: 7rem;
+  }
+
+  .massage-section .hw-prt-ottr {
+    padding-bottom: 0;
+  }
+
+  .massage-section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    margin-top: 5rem;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .lft_cntctus_img::after {
+    right: -2%;
+    bottom: 13%;
+  }
+
+  .explre_left .explr_lft_dtl {
+    min-height: 37.1rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1340px;
+  }
+
+  html {
+    font-size: 47%;
+  }
+
+  /* ayon paul start / 28.12.2023 */
+
+  .navbar-nav li a {
+    font-size: 18px;
+  }
+
+  .tp-srch-bar {
+    font-size: 16px;
+  }
+
+  .cmn_hdr p {
+    font-size: 16px;
+  }
+
+  .or-srvc-lnk a {
+    font-size: 16px;
+  }
+
+  .bnr_content p {
+    width: 50%;
+  }
+
+  .or-srvc-top p {
+    width: 67%;
+  }
+
+  .hm-cntng-prt {
+    padding-right: 8rem;
+  }
+
+  .sltn-wrk-img {
+    width: 100%;
+  }
+
+  .hw-prt-txt {
+    width: 77%;
+  }
+
+  .cmn_btn {
+    font-size: 15px;
+    padding: 13px 20px;
+  }
+
+  .bnr-vdi-icn {
+    outline: 6px solid #fff;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 492px;
+    left: 261px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 480px;
+    right: 304px;
+  }
+
+  /* shreyasi */
+  .explre_left .explr_lft_dtl:first-child {
+    margin-bottom: 16px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 568px;
+    right: 247px;
+  }
+
+  .swiper-button-next_1 {
+    left: 84px;
+  }
+
+  .swiper-button-prev_1 {
+    right: 84px;
+  }
+
+  .ftr_plc,
+  .ftr_list li,
+  .ftr_list a,
+  .ftr_para p {
+    font-size: 16px;
+  }
+
+  .cmn_footer .col-md-3:nth-child(2) .ftr_list ul li {
+    padding-bottom: 10px;
+  }
+
+  .ftr_co p,
+  .ftr_co a {
+    font-size: 16px;
+  }
+
+  .or-srvc-sec {
+    margin-top: -125px;
+  }
+
+  .bnr_girl {
+    top: 48%;
+    right: 112px;
+  }
+
+  .bnr_crcl {
+    top: 83px;
+    right: 174px;
+  }
+
+  /* moumi 5.1.23 */
+
+  .education_section .hw-prt-ottr .row:nth-child(even) {
+    /* margin-bottom: 7rem; */
+    margin: 5rem 0 16rem 0;
+  }
+
+  .massage-section .hw-prt-ottr {
+    padding-bottom: 0;
+  }
+
+  .massage-section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    /* margin-top: 5rem; */
+    margin: 9rem 0 6rem 0;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .contct_content .stars span svg {
+    font-size: 16px;
+  }
+
+  .tstmnl_clnt_img_txt .stars svg {
+    font-size: 16px;
+  }
+
+  /* ayon paul / 12.01.2024 */
+  .explre_left .explr_lft_dtl {
+    min-height: 41.5rem;
+  }
+     .outr_input.cntct_sbmt .cmn_btn{
+            padding: 9px 20px;
+     }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1366px) {
+  .container {
+    max-width: 1240px;
+  }
+
+  /* shreyasi */
+  .explre_left .explr_lft_dtl .explr_lft_text {
+    margin-left: 20px;
+  }
+
+  .explre_right .explr_lft_text {
+    padding: 10px 20px 26px;
+  }
+
+  .ftr_para p {
+    padding-top: 3rem;
+    width: 34.7rem;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 449px;
+    left: 229px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 542px;
+    right: 217px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 447px;
+    right: 251px;
+  }
+
+  /* ayon paul / 12.01.2024 */
+  .explre_left .explr_lft_dtl {
+    min-height: 37.6rem;
+    column-gap: 0;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+@media (max-width: 1340px) {
+  .ftr_social_icns ul::after {
+    height: 496px;
+    right: 234px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+@media (max-width: 1280px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  html {
+    font-size: 42%;
+  }
+
+  /* ayon paul start / 28.12.2023 */
+
+  .navbar-nav li a {
+    font-size: 15px;
+  }
+
+  .tp-srch-bar {
+    font-size: 15px;
+  }
+
+  .cmn_hdr p {
+    font-size: 15px;
+  }
+
+  .or-srvc-lnk a {
+    font-size: 15px;
+  }
+
+  .bnr_content p {
+    width: 50%;
+  }
+
+  .or-srvc-top p {
+    width: 67%;
+  }
+
+  .hm-cntng-prt {
+    padding-right: 8rem;
+  }
+
+  .sltn-wrk-img {
+    width: 100%;
+  }
+
+  .cmn_btn {
+    font-size: 14px;
+  }
+
+  .bnr-vdi-icn {
+    outline: 6px solid #fff;
+  }
+
+  .sltn-wrk-prt-txt p {
+    width: 96%;
+  }
+
+  .sltn-wrk-prt-txt {
+    bottom: 12%;
+  }
+
+  .or-srvc-prt .cmn_hdr p {
+    width: 100%;
+  }
+
+  /* shreyasi */
+  .tstmnl_info::after {
+    bottom: 6px;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 421px;
+    left: 205px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 465px;
+    right: 210px;
+  }
+
+  .ftr_icon,
+  .ftr_social_icns ul li a {
+    margin-right: 14px;
+  }
+
+  .cmn_footer .col-md-3:nth-child(2) .ftr_list ul li {
+    padding-bottom: 12px;
+  }
+
+  .ftr_plc,
+  .ftr_list li,
+  .ftr_list a,
+  .ftr_para p,
+  .ftr_co p,
+  .ftr_co a {
+    font-size: 15px;
+  }
+
+  .bnr_girl {
+    top: 49%;
+    right: 85px;
+    width: 650px;
+  }
+
+  .bnr_crcl {
+    top: 83px;
+    right: 146px;
+  }
+
+  /* moumi 5.1.23 */
+
+  .education_section .hw-prt-ottr .row:nth-child(even) {
+    margin: 7rem 0 19rem 0;
+  }
+
+  .massage-section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    margin: 11rem 0 6rem 0;
+  }
+
+  .logo_area {
+    width: 108px;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .contct_content .stars span svg {
+    font-size: 14px;
+  }
+
+  .tstmnl_clnt_img_txt .stars svg {
+    font-size: 14px;
+  }
+
+  .tstcl_touch .pagination .page-link {
+    padding: 14px 20px;
+  }
+
+  .explre_left .explr_lft_dtl {
+    min-height: 39.4rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1199px) {
+  .container {
+    max-width: 100%;
+  }
+
+  /* ayon paul start / 28.12.2023 */
+  .container {
+    padding-inline: 20px;
+  }
+
+  .hw-prt-pic {
+    margin: auto;
+  }
+
+  .hw-prt-txt {
+    margin: auto;
+  }
+
+  /* shreyasi */
+  .testimonal_slider {
+    width: 90%;
+  }
+
+  .swiper-button-next_1 {
+    left: 16px;
+  }
+
+  .swiper-button-prev_1 {
+    right: 13px;
+  }
+
+  .explre_right .explr_lft_text.cmn_hdr p {
+    min-height: 100px;
+  }
+
+  .ftr_para p {
+    width: 29.7rem;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 462px;
+    right: 215px;
+  }
+
+  .bnr_girl {
+    right: 67px;
+    width: 566px;
+  }
+
+  .bnr_crcl {
+    top: 94px;
+    right: 122px;
+    width: 60rem;
+    height: 60rem;
+  }
+
+  /* moumi 5.1.23 */
+  .ftns_actvty-cnt.cmn_pdding {
+    padding-bottom: 13rem;
+  }
+
+  .education_section .hw-prt-ottr .row:nth-child(even) {
+    margin: 7rem 0 19rem 0;
+  }
+
+  .massage-section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    margin: 11rem 0 6rem 0;
+  }
+
+  /* changes by ayon paul / 11.01.2024 */
+  .education_section .hw-prt-ottr .row:nth-child(even) .hw-prt-txt {
+    margin: auto;
+  }
+
+  .education_section .srvc_cont {
+    margin: auto;
+  }
+
+  .explre_left .explr_lft_dtl {
+    min-height: 41.1rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1080px) {
+
+  /* ayon paul start / 28.12.2023 */
+  .hm-cntng-prt {
+    padding-right: 5rem;
+  }
+
+  /* shreyasi */
+  .explr_info {
+    display: block !important;
+  }
+
+  .explr_info .col-md-6 {
+    width: 80% !important;
+    margin: auto;
+  }
+
+  .explr_lft_dtl {
+    justify-content: flex-start;
+  }
+
+  .explre_right .explr_lft_text.cmn_hdr h4 {
+    width: 100%;
+  }
+
+  .explre_right .explr_lft_text {
+    text-align: center;
+  }
+
+  .explre_right .explr_lft_text.cmn_hdr p {
+    min-height: auto;
+    width: 100%;
+  }
+
+  .explr_lft_text.cmn_hdr h4 {
+    width: 100%;
+  }
+
+  .explre_left .explr_lft_img {
+    /* width: 40%; */
+    width: 100%;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 390px;
+    left: 193px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 404px;
+    right: 206px;
+  }
+
+  .explre_right {
+    margin-top: 15px;
+  }
+
+  .ftr_plc,
+  .ftr_list li,
+  .ftr_list a,
+  .ftr_para p,
+  .ftr_co p,
+  .ftr_co a {
+    font-size: 14px;
+  }
+
+  .ftr_para p {
+    width: 100%;
+  }
+
+  .bnr_girl {
+    right: 95px;
+    width: 504px;
+  }
+
+  .bnr_girl {
+    right: 69px;
+    width: 458px;
+  }
+
+  .bnr_crcl {
+    right: 109px;
+    width: 50rem;
+    height: 50rem;
+  }
+
+  .bnr-vdo-otr {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  /* ayon paul / 12.01.2024 */
+  .explre_left .explr_lft_dtl {
+    min-height: 0;
+    flex-direction: column;
+  }
+
+  .explre_left .explr_lft_dtl .explr_lft_text {
+    text-align: center;
+    padding: 10px 20px 26px;
+  }
+
+  .explre_left .explr_lft_dtl .explr_lft_text {
+    margin-left: 0;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1024px) {
+
+  /* ayon paul start / 28.12.2023 */
+  .hm-cntng-prt {
+    padding: 0px 3.2rem;
+  }
+
+  .hw-prt-txt {
+    width: 86%;
+  }
+
+  /* shreyasi */
+  .top_ftr .row {
+    display: block !important;
+  }
+
+  .top_ftr .col-md-3 {
+    width: 100% !important;
+  }
+
+  .ftr_para p {
+    width: 100%;
+    text-align: center;
+  }
+
+  .ftr_logo {
+    width: 180px;
+    margin: auto;
+  }
+
+  .ftr_hdng.cmn_hdr h4 {
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .cmn_footer .col-md-3:nth-child(2) .ftr_list ul li {
+    justify-content: center;
+  }
+
+  .col-md-2.offset-md-1 {
+    width: 100% !important;
+  }
+
+  .offset-md-1 {
+    margin-left: 0 !important;
+  }
+
+  .ftr_list li {
+    text-align: center;
+  }
+
+  .ftr_form {
+    text-align: center;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 350px;
+    left: 183px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 379px;
+    right: 196px;
+  }
+
+  /* mmoumi 5.1.23 */
+  .ftr_logo img {
+    margin: auto;
+  }
+
+  /* ayon paul / 11.01.2024 */
+
+  .contactus.tstmnlus .parent_contactus .lrg_txt h3 {
+    font-size: 14.6rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 991px) {
+
+  /* ayon paul start / 28.12.2023 */
+  .logo_area {
+    width: 90px;
+  }
+
+  .logo_area img {
+    width: 100%;
+  }
+
+  .navbar-nav li a {
+    font-size: 14px;
+  }
+
+  .tp-srch-bar {
+    font-size: 14px;
+  }
+
+  .cmn_hdr p {
+    font-size: 14px;
+  }
+
+  .bnr-vdi-icn {
+    outline: 4px solid #fff;
+  }
+
+  .or-srvc-lnk a {
+    font-size: 14px;
+  }
+
+  .ftr_plc,
+  .ftr_list li,
+  .ftr_list a,
+  .ftr_para p,
+  .ftr_co p,
+  .ftr_co a {
+    font-size: 14px;
+  }
+
+  /* ayan dey 08.01.24  */
+  .blog_column {
+    animation: none;
+  }
+
+  .blog_box:nth-last-child(-n + 2) {
+    display: none;
+  }
+
+  .parent_blog {
+    max-height: inherit;
+  }
+
+  .parent_blog {
+    flex-wrap: wrap;
+  }
+
+  .parent_blog .blog_column {
+    flex-direction: row;
+    width: 100%;
+    gap: 20px;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .contct_content .stars span svg {
+    font-size: 13px;
+  }
+
+  .tstmnl_clnt_img_txt .stars svg {
+    font-size: 13px;
+  }
+
+  .tstmnl_clnt_img_txt .stars {
+    gap: 7px;
+  }
+
+  .contactus.tstmnlus .contct_content .stars {
+    gap: 7px;
+  }
+
+  .tstcl_touch .pagination .page-link {
+    padding: 10px 17px;
+    font-size: 14px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 900px) {
+
+  /* ayon paul start / 28.12.2023 */
+  .hm-cntng-prt {
+    padding: 0px 2.2rem;
+  }
+
+  .sltn-wrk-prt-txt p {
+    width: auto;
+  }
+
+  .cus_nav_outr .navbar-nav {
+    gap: 3rem;
+  }
+
+  .bnr_content h1 {
+    font-size: 5rem;
+  }
+
+  .bnrvdoinnr-cnt h3 {
+    font-size: 17px;
+  }
+
+  .cmn_hdr h2 {
+    font-size: 4.5rem;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 18px;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .parent_contactus .lrg_txt h3 {
+    font-size: 11.6rem;
+  }
+
+  .contactus.tstmnlus .contct_content .stars {
+    gap: 4px;
+  }
+
+  .tstmnl_clnt_img_txt .stars {
+    gap: 4px;
+  }
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 840px) {
+  /* ayon paul start / 28.12.2023 */
+
+  .hw-prt-pic {
+    width: 358px;
+    height: 310px;
+  }
+
+  .hw-prt-txt {
+    width: 92%;
+  }
+
+  .hm-cntng-txt h2 span {
+    font-size: 5rem;
+  }
+
+  .hm-cntng-txt h6 {
+    font-size: 16px;
+  }
+
+  .bnr_girl {
+    right: 52px;
+    width: 321px;
+  }
+
+  .bnr_crcl {
+    top: 66px;
+    right: 62px;
+    width: 40rem;
+    height: 40rem;
+  }
+
+  .bnr-vdi-icn {
+    width: 5.5rem;
+    height: 5.5rem;
+  }
+
+  .bnr-vdo-otr {
+    margin-top: 6px;
+  }
+
+  .blog_column:nth-child(2) .blog_box:nth-child(2) {
+    padding-bottom: 2rem !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 768px) {
+
+  /* ayon paul start / 28.12.2023 */
+  .hw-prt-txt {
+    width: 100%;
+  }
+
+  .hm-cntng-txt h6 {
+    font-size: 14px;
+  }
+
+  .hm-cntng-txt h2 span {
+    font-size: 4.5rem;
+  }
+
+  .sltn-wrk-part {
+    width: 100%;
+  }
+
+  .hw-prt-txt.paramedcl {
+    padding-left: 10px;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .cntct_lst {
+    margin-left: 10px;
+  }
+
+  .contactus.tstmnlus .parent_contactus .lrg_txt h3 {
+    font-size: 9.6rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 767px) {
+  /* Navbar Collpase */
+
+  .navbar-nav {
+    background: #19a9ba;
+    padding: 15px 0;
+    text-align: center;
+  }
+
+  .navbar-nav li {
+    padding: 0px 0px;
+  }
+
+  .navbar-nav li a {
+    font-size: 14px;
+    padding: 10px 0px;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    color: #330812;
+  }
+
+  ul.navbar-nav li a:hover:hover {
+    background: transparent;
+    color: #fff;
+  }
+
+  .navbar {
+    position: static;
+  }
+
+  .navbar .navbar-toggler {
+    position: absolute !important;
+    right: 20px;
+    border: none;
+    outline: none;
+    padding: 4px;
+    border-radius: 0;
+    top: -8px;
+    -webkit-transform: translateY(-47%);
+    -ms-transform: translateY(-47%);
+    transform: translateY(-47%);
+    background: transparent;
+    border-radius: 50%;
+    scroll-behavior: smooth;
+    top: 27px;
+  }
+
+  .navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(189, 79, 102, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .collapse:not(.show) {
+    display: none;
+  }
+
+  .navbar-collapse {
+    position: absolute;
+    z-index: 9;
+    left: 0;
+    top: 67px;
+    width: 100%;
+    transition: 0.7s;
+    background-color: #8dc63f;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #fff;
+  }
+
+  /* Navbar Collapse End */
+  .navbar-nav .nav-item {
+    margin-right: 0;
+  }
+
+  /* custom navbar end */
+
+  .navbar-nav span {
+    display: none;
+  }
+
+  /* ayon paul start / 28.12.2023 */
+
+  .search-area {
+    padding-right: 80px;
+  }
+
+  .search-area {
+    padding-right: 50px;
+  }
+
+  .cus_nav_outr .navbar-nav {
+    gap: 0rem;
+  }
+
+  .or-srvc-top p {
+    width: 100%;
+  }
+
+  .hw-prt-txt {
+    text-align: center;
+  }
+
+  .or-srvc-flx {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .or-srvc-prt {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .or-srvc-pic {
+    margin: auto;
+  }
+
+  .or-srvc-pic img {
+    margin: auto;
+  }
+
+  .or-srvc-lnk a {
+    justify-content: center;
+  }
+
+  .btn-otr {
+    opacity: 1;
+  }
+
+  .aftrsrvc-imgbx {
+    width: 64%;
+    margin: auto;
+  }
+
+  .hw-prt-img {
+    margin-bottom: 46px;
+  }
+
+  .sltn-wrk-top p {
+    width: 100%;
+  }
+
+  .sltn-wrk-part {
+    width: 80%;
+    margin: auto;
+  }
+
+  .sltn-wrk-prt-txt {
+    text-align: center;
+  }
+
+  .sltn-wrk-flx .row {
+    row-gap: 20px;
+  }
+
+  .sltn-wrk-flx {
+    margin-top: 3.5rem;
+  }
+
+  .or-srvc-top {
+    margin-bottom: 3rem;
+  }
+
+  .hm-cntng-inr {
+    flex-direction: column;
+    row-gap: 30px;
+  }
+
+  .hm-cntng-prt {
+    border-right: 0;
+    padding-right: 0;
+    border-bottom: 2px solid #8fafc4;
+    padding-bottom: 27px;
+    width: 35%;
+    padding-left: 0;
+  }
+
+  /* shreyasi */
+  .ftr_social_icns ul::before {
+    height: 229px;
+    left: 111px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 251px;
+    right: 122px;
+  }
+
+  .tstmnl_para p {
+    width: 100%;
+    padding-right: 15px;
+  }
+
+  .tstmnl_img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .explr_learn {
+    font-size: 16px;
+  }
+
+  .explre_right .explr_lft_text.cmn_hdr p {
+    width: 100%;
+    padding-top: 0;
+  }
+
+  .get_started_bg.cmn_hdr p {
+    width: 100%;
+    padding: 0 20px;
+  }
+
+  .ftr_hdng.cmn_hdr h4 {
+    padding-bottom: 10px;
+  }
+
+  .ftr_para p {
+    margin-bottom: 20px;
+  }
+
+  .cmn_pdding {
+    padding: 4rem 0;
+  }
+
+  .tstmnl_hdng {
+    margin-bottom: 1rem;
+  }
+
+  .explr_hdng {
+    padding-bottom: 20px;
+  }
+
+  .explr_hdng {
+    margin-top: 15px;
+  }
+
+  .aftr-srvc-otr {
+    position: relative;
+  }
+
+  .btn-otr .swiper-button-prev2 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    left: -40px;
+  }
+
+  .btn-otr .swiper-button-next2 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    right: -40px;
+  }
+
+  .explr_info .col-md-6 {
+    width: 100% !important;
+  }
+
+  .explre_left .explr_lft_img {
+    width: 100%;
+  }
+
+  /* service page */
+  /* moumi(4.1.24) */
+  .hw-prt-ottr .row {
+    margin: 2rem;
+  }
+
+  .cmn_hdr.res-gap {
+    margin: 5rem 3rem;
+  }
+
+  .res-img-gap {
+    margin-top: 6rem;
+  }
+
+  .ftr_logo img {
+    margin: auto;
+  }
+
+  .contents {
+    margin: 0 3rem;
+  }
+
+  .or-srvc-sec {
+    margin-top: -94px;
+  }
+
+  .pramdcl_sec {
+    margin-top: -127px;
+  }
+
+  .sltn-wrk-se {
+    background-size: cover !important;
+  }
+
+  .blog_column {
+    flex-wrap: wrap;
+  }
+
+  .blog_box,
+  .blog_bx_img img,
+  .blog_img img {
+    width: 100%;
+  }
+
+  .bnr-vdi-icn::after {
+    bottom: -11px;
+    top: -11px;
+    left: -11px;
+    right: -11px;
+  }
+
+  /* ayan dey 09.01.24  */
+  .parent_contactus {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+
+  .parent_contactus .rgt-cntctus {
+    width: 100%;
+  }
+
+  .lft_cntctus_img {
+    width: auto;
+  }
+
+  .contct_content.cmn_hdr a {
+    font-size: 13px;
+  }
+
+  .map_button {
+    border-width: 3px;
+  }
+
+  .outr_form .w50 {
+    width: 100%;
+  }
+
+  .outr_form form input::placeholder {
+    font-size: 13px;
+  }
+
+  .parent_contactus {
+    padding: 2rem;
+  }
+
+  /* ayon paul / 11.01.2024 */
+
+  .massage-section .row:nth-child(even) .col-md-6 .hw-prt-img {
+    margin-bottom: 0;
+  }
+
+  .massage-section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    margin: 0rem 0 6rem 0;
+  }
+
+  .education_section .hw-prt-ottr .row:nth-child(even) {
+    margin: 0rem 0 19rem 0;
+  }
+
+  .ftns_actvty-cnt.cmn_pdding {
+    padding-bottom: 0rem;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .cntct_lst {
+    margin-left: 0;
+  }
+
+  .tstmnl_clnt_img_dtls {
+    flex-direction: column;
+  }
+
+  .tstmnl_clnt_img_txt .stars {
+    justify-content: center;
+  }
+
+  .tstcl_touch h2 {
+    padding-bottom: 3rem;
+  }
+
+  .contactus.tstmnlus .lft_cntctus_img::after {
+    right: 1%;
+    bottom: 13%;
+  }
+
+  .tstcl_touch .pagination {
+    padding-top: 3rem;
+  }
+
+  .mapoutr {
+    margin-top: 1rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 667px) {
+  .navbar .navbar-toggler {
+    right: 12px;
+  }
+
+  /* ayon paul start / 28.12.2023 */
+
+  .bnr_content h1 {
+    font-size: 4rem;
+    padding-bottom: 10px;
+  }
+
+  .cmn_hdr p {
+    font-size: 13px;
+  }
+
+  .bnr_content p {
+    padding-bottom: 22px;
+  }
+
+  .bnrvdoinnr-cnt h3 {
+    font-size: 16px;
+  }
+
+  .bnr-vdi-icn svg {
+    font-size: 16px;
+  }
+
+  .bnr-vdi-icn {
+    width: 40px;
+    height: 40px;
+    outline: 3px solid #fff;
+  }
+
+  .tp-srch-bar {
+    font-size: 13px;
+  }
+
+  .navbar-nav li a {
+    font-size: 13px;
+  }
+
+  .cmn_hdr h2 {
+    font-size: 3.5rem;
+  }
+
+  .or-srvc-prt {
+    width: 62%;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 17px;
+  }
+
+  .or-srvc-lnk a {
+    font-size: 13px;
+  }
+
+  /* shreyasi */
+  .ftr_social_icns ul::before {
+    height: 185px;
+    left: 85px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 207px;
+    right: 98px;
+  }
+
+  .swiper-button-next_1 {
+    left: 5px;
+  }
+
+  .swiper-button-prev_1 {
+    right: 5px;
+  }
+
+  .ftr_plc,
+  .ftr_list li,
+  .ftr_list a,
+  .ftr_para p,
+  .ftr_co p,
+  .ftr_co a {
+    font-size: 13px;
+  }
+
+  .bnr_girl {
+    top: 40%;
+    right: 28px;
+  }
+
+  .bnr_crcl {
+    top: 9px;
+    right: 109px;
+    width: 20rem;
+    height: 20rem;
+  }
+
+  .or-srvc-sec {
+    margin-top: -89px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 600px) {}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 575px) {
+  /* ayon paul start / 28.12.2023 */
+
+  .bnr-mbl-img-otr {
+    display: block;
+  }
+
+  .bnr_img_otr {
+    display: none;
+  }
+
+  .bnr-mbl-img-otr img {
+    width: 100%;
+  }
+
+  .bnr_content {
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+  }
+
+  .bnr_content h1 {
+    margin: auto;
+    font-size: 5rem;
+    width: 100%;
+  }
+
+  .bnr_content p {
+    margin: auto;
+    width: 100%;
+    font-size: 14px;
+    padding: 20px 20px 40px;
+  }
+
+  .bnr-vdo-inr {
+    justify-content: center;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 16px;
+  }
+
+  .or-srvc-prt {
+    width: 75%;
+  }
+
+  .aftrsrvc-sld-sec {
+    padding-top: 0;
+  }
+
+  /* shreyasi */
+  .or-srvc-sec {
+    padding-top: 0;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 144px;
+    left: 63px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 173px;
+    right: 76px;
+  }
+
+  .explr_learn {
+    font-size: 14px;
+  }
+
+  .swiper-button-next_1 {
+    left: 27px;
+  }
+
+  .swiper-button-prev_1 {
+    right: 27px;
+  }
+
+  .tstmnl_info {
+    width: 90%;
+    margin: auto;
+  }
+
+  .tstmnl_line {
+    width: 80%;
+    margin: auto;
+  }
+
+  .tstmnl_line {
+    width: 89%;
+  }
+
+  .explr_btn {
+    margin-top: 10px;
+  }
+
+  /* service page */
+  /* moumi(4.1.24) */
+  .srvc_bnr .bnr_img_otr {
+    display: block;
+  }
+
+  /* home page banner (mobile) */
+  .bnr-mbl-img-otr .bnr_pic {
+    position: relative;
+  }
+
+  .bnr-mbl-img-otr .mbl_lady {
+    position: absolute;
+    bottom: 12%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 9;
+  }
+
+  .mbl_crcl {
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 1;
+  }
+
+  /* -----about us page------ */
+  /* moumi */
+  .srvc_bnr .bnr_img_otr {
+    display: block;
+  }
+
+  .about_banner .bnr_img_otr {
+    display: block;
+  }
+
+  .ftns_actvty-cnt.cmn_pdding {
+    padding-bottom: 4rem;
+  }
+
+  /* about page moumi 5.1.23 */
+
+  .bnr_content.nw_bnr_cnt {
+    top: 87%;
+  }
+
+  /* ayan dey 08.01.23  */
+  .banner_sec.resource_bnr .bnr_img_otr,
+  .banner_sec.contact_bnr .bnr_img_otr {
+    display: block;
+  }
+
+  .banner_sec.resource_bnr .bnr_content,
+  .banner_sec.contact_bnr .bnr_content {
+    top: 50%;
+  }
+
+  .outr_latest_blog {
+    padding: 4rem 3rem;
+  }
+
+  .blog_content .mt-8 {
+    margin-top: 4rem;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .tstcl_touch .pagination .page-link {
+    padding: 8px 15px;
+    font-size: 13px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 484px) {
+  /* ayon paul start / 28.12.2023 */
+
+  .bnr_content {
+    top: 23%;
+  }
+
+  .explr_hdng {
+    display: block;
+  }
+
+  .explr_btn {
+    text-align: center;
+  }
+
+  .explr_hdng h2 {
+    text-align: center;
+  }
+
+  .swiper-button-next_1 {
+    left: 9px;
+  }
+
+  .swiper-button-prev_1 {
+    right: 9px;
+  }
+
+  .ftr_social_icns ul::before {
+    height: 93px;
+    left: 44px;
+  }
+
+  .ftr_social_icns ul::after {
+    height: 113px;
+    right: 55px;
+  }
+
+  .mbl_crcl {
+    top: 34%;
+  }
+
+  .cmn_hdr.res-gap {
+    margin: 5rem 15px;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .parent_contactus .lrg_txt h3 {
+    font-size: 50px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 430px) {
+  /* ayon paul start / 28.12.2023 */
+
+  .bnr_content h1 {
+    width: 80%;
+  }
+
+  .search-area {
+    padding-right: 37px;
+  }
+
+  .logo_area {
+    width: 72px;
+  }
+
+  .cmn_btn {
+    font-size: 13px;
+    padding: 11px 18px;
+  }
+
+  .hm-cntng-prt {
+    width: 52%;
+  }
+
+  .aftrsrvc-imgbx {
+    width: 70%;
+  }
+
+  .navbar .navbar-toggler {
+    top: 23px;
+  }
+
+  .or-srvc-prt {
+    width: 100%;
+  }
+
+  .ftr_social_icns ul::before,
+  .ftr_social_icns ul::after {
+    display: none;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .parent_contactus .lrg_txt h3 {
+    font-size: 45px;
+  }
+
+  .tstcl_touch h2 {
+    padding-bottom: 2rem;
+  }
+
+  .contactus.tstmnlus .lft_cntctus_img::after {
+    right: 4%;
+    bottom: 13%;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 420px) {
+
+  #nav-icon3 span:nth-child(2),
+  #nav-icon3 span:nth-child(3) {
+    top: 12px;
+  }
+
+  #nav-icon3 span:nth-child(4) {
+    top: 20px;
+  }
+
+  .navbar .navbar-toggler {
+    top: 27px;
+  }
+
+  .aftrsrvc-imgbx {
+    width: 80%;
+  }
+
+  .bnr-mbl-img-otr .mbl_lady {
+    bottom: 9%;
+  }
+
+  .mbl_crcl {
+    top: 34%;
+    width: 40rem;
+    height: 40rem;
+  }
+
+  .pramdcl_sec {
+    margin-top: 0;
+  }
+
+  .ftns_actvty-cnt.cmn_pdding {
+    padding-bottom: 7rem;
+  }
+
+  .hw-prt-ottr .row {
+    margin-top: 5rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 390px) {
+  .hw-prt-pic {
+    width: 308px;
+    height: 260px;
+  }
+
+  .bnr_content {
+    top: 26%;
+  }
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .parent_contactus .lrg_txt h3 {
+    font-size: 40px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 375px) {
+  .btn-otr .swiper-button-prev2 {
+    left: -33px;
+  }
+
+  .btn-otr .swiper-button-next2 {
+    right: -33px;
+  }
+
+  .bnr-mbl-img-otr .mbl_lady {
+    bottom: 6%;
+  }
+
+  .bnr_content h1 {
+    font-size: 4rem;
+  }
+
+  .mbl_crcl {
+    top: 39%;
+  }
+
+  .education_section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    margin-bottom: 7rem;
+  }
+
+  .massage-section .hw-prt-ottr {
+    padding-bottom: 0;
+  }
+
+  .massage-section .hw-prt-ottr .row:nth-child(even) {
+    flex-direction: row-reverse;
+    margin-top: 5rem;
+    /* margin-bottom: 0; */
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 360px) {
+
+  /* ayon paul / 11.01.2024 */
+  .contactus.tstmnlus .lft_cntctus_img::after {
+    right: 2%;
+    bottom: 13%;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
